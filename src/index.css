@@ -1,0 +1,14 @@
+body {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/007/726/128/original/illustration-of-beautiful-summer-landscape-fields-green-hills-blue-sky-bright-color-country-background-in-flat-banner-cartoon-style-free-vector.jpg);
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
